@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Yashraj Shukla
 
-<!--
-**Yash72170/Yash72170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Java Full Stack Developer
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+- Data Structures & Algorithm
+- Spring Boot
+- Microservices
+- Spring AI
+- React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 2026 CSE Graduate
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: www.linkedin.com/in/yashraj-shukla
+- Email: yashrajshukla133@email.com
