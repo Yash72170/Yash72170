@@ -9,16 +9,17 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,docker,git,github,maven,hibernate,vscode,postman&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,mysql,postgres,docker,git,github,maven,hibernate,vscode,postman&perline=7" />
 </p>
 
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
 - Microservices
-- Spring AI
-- Docker
-- AWS
+- Machine Learing
+- Deep Learning
+- NLP
+- GEN AI
 
 🎯 2026 CSE Graduate
 
