@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Yashraj+Shukla;Java+Full+Stack+Developer;Spring+Boot+Developer;Microservices+Learner;Spring+AI+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Yashraj+Shukla;Java+Full+Stack+Developer;Spring+Boot+Developer;Microservices+Learner;Generative AI+enthusiastic;" />
 </p>
 
 # Hi 👋, I'm Yashraj Shukla
@@ -9,16 +9,14 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,spring,react,mysql,postgres,docker,git,github,maven,hibernate,vscode,postman&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,spring,react,mysql,docker,git,github,maven,hibernate,vscode,postman&perline=7" />
 </p>
 
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms
 - Microservices
-- Machine Learing
-- Deep Learning
-- NLP
+- ML & DL
 - GEN AI
 
 🎯 2026 CSE Graduate
